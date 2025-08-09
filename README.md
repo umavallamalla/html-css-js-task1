@@ -14,12 +14,13 @@ The goal of this task was to practice **HTML, CSS, and JavaScript** by creating 
 
 ## 📂 Project Structure
 project/
-├── index.html # Main HTML file
-├── style.css # Styling for the webpage
-├── script.js # JavaScript interactivity
-├── README.md # Project description
+│── index.html
+│── style.css
+│── script.js
+│── README.md
 └── assets/
-└── apex-logo.png # Company logo
+├── apex-logo.png
+└── Screenshot.png
 
 ---
 
